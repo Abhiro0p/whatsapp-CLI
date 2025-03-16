@@ -35,4 +35,3 @@ A command-line interface (CLI) for sending and managing WhatsApp messages using 
 4. Run
   ```bash
   python -m src.cli_interface
-  python -m src.

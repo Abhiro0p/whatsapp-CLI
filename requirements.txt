@@ -1,2 +1,4 @@
 selenium==4.9.0
 python-dotenv==0.19.2
+vobject
+selenium_stealth

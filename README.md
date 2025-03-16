@@ -31,3 +31,8 @@ A command-line interface (CLI) for sending and managing WhatsApp messages using 
    pip install -r requirements.txt
 3. Configure ChromeDriver:
 - Ensure ChromeDriver is installed and its path is correctly set in config/settings.py
+- Chrome and ChromeDriver should be of the same version
+4. Run
+  ```bash
+  python -m src.cli_interface
+  python -m src.

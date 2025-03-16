@@ -25,7 +25,8 @@ A command-line interface (CLI) for sending and managing WhatsApp messages using 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Abhiro0p/whatsapp-cli.git
-   cd whatsapp-cli```
+   cd whatsapp-cli
 2. Install dependencies:
-   ``````
+   ```bash
+   pip install -r requirements.txt
    

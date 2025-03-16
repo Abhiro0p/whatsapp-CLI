@@ -1,0 +1,2 @@
+[console_scripts]
+whatsapp-cli = src.cli_interface:CLIInterface.start
